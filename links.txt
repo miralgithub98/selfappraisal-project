@@ -1,8 +1,0 @@
-admin link
-https://sagpansarthi.com/selfappraisal/admin/login.php
-
-
-
-
-user link
-https://sagpansarthi.com/selfappraisal/user/login.php
